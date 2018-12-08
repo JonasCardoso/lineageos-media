@@ -9,6 +9,9 @@ Systemless replace current ROM's ringtones, notifications, system sounds and boo
 - SELinux Enforcing
 
 ## Change Log
+### v1.2
+- Fix boot animation
+
 ### v1.1
 - General optimization
 

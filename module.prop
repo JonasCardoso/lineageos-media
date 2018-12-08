@@ -1,7 +1,7 @@
 id=lineageos-media
 name=LineageOS Media
-version=v1.1
-versionCode=11
+version=v1.2
+versionCode=12
 author=JonasCardoso
 description=Systemless replace current ROM's ringtones, notifications, system sounds and boot animation from LineageOS.
 minMagisk=17000
